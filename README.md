@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Shubham, this side and I'm python developer and working on frontend </p>
+<p align="left">Python Developer, fine with backend and working on frontend </p>
 
 ###
 
