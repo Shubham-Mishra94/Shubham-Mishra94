@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Data analytics for power systems<br>📚 I'm currently exploring frontend tech parallel with backend<br>🎯 Goals: Fullstack<br>🎲 Fun fact: Started with C++ now got twisted</p>
+<p align="left">✨ Data analytics for power systems<br>📚 I'm a Python Developer, exploring backend & cloud tech<br>🎯 Goals: Fullstack<br>🎲 Fun fact: Started with C++ now got twisted</p>
 
 ###
 
